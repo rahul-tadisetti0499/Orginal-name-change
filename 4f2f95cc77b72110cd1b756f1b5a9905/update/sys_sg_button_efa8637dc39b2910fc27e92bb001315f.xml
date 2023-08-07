@@ -12,7 +12,7 @@
         <confirm_label>Confirm</confirm_label>
         <confirmation_message>Do you want to reject this request?</confirmation_message>
         <context>record</context>
-        <description>Job Change Reject function</description>
+        <description>Job change approval reject function</description>
         <destination_alp/>
         <destination_screen/>
         <destination_type>screen</destination_type>
@@ -29,7 +29,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Job change approval Reject function</name>
+        <name>Job Change Reject Function</name>
         <offline>false</offline>
         <offline_condition/>
         <offline_condition_script/>
@@ -58,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-09 04:55:23</sys_created_on>
         <sys_id>efa8637dc39b2910fc27e92bb001315f</sys_id>
-        <sys_mod_count>10</sys_mod_count>
-        <sys_name>Job change approval Reject function</sys_name>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Job Change Reject Function</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_button_efa8637dc39b2910fc27e92bb001315f</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-28 06:52:13</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 13:07:26</sys_updated_on>
         <table>sn_me_workday_job_change_approval_db_view</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

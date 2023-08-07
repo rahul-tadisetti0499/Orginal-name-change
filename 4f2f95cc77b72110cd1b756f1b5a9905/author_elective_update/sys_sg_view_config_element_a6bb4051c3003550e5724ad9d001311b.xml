@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>ritm_requested_for_avatar_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 06:20:11</sys_created_on>
+        <sys_id>a6bb4051c3003550e5724ad9d001311b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ritm_requested_for_avatar_element</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_a6bb4051c3003550e5724ad9d001311b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 06:20:11</sys_updated_on>
+        <view_config display_value="Time Off Request Todos List Screen View Config">447e1111c3d36510e5724ad9d00131f6</view_config>
+        <view_template_slot display_value="">27a6805dc3ccf150e5724ad9d001311a</view_template_slot>
+    </sys_sg_view_config_element>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_view_config_element_a6bb4051c3003550e5724ad9d001311b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>ritm_requested_for_avatar_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 06:20:11</sys_created_on>
+        <sys_id>a6bb4051c3003550e5724ad9d001311b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ritm_requested_for_avatar_element</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_a6bb4051c3003550e5724ad9d001311b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 06:20:11</sys_updated_on>
+        <view_config display_value="Time Off Request Todos List Screen View Config">447e1111c3d36510e5724ad9d00131f6</view_config>
+        <view_template_slot display_value="">27a6805dc3ccf150e5724ad9d001311a</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>]]></payload>
+        <payload_hash>650551673</payload_hash>
+        <record_name>ritm_requested_for_avatar_element</record_name>
+        <reverted_from/>
+        <source>9c54ac3b979cb910efd27bc71153afb1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-08-03 12:49:29</sys_created_on>
+        <sys_id>18a464bb979cb910efd27bc71153af5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bb722f230000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-03 12:49:29</sys_updated_on>
+        <type>Card element</type>
+        <update_guid>d4a464bb269cb910d6a63511e6fda85e</update_guid>
+        <update_guid_history>d4a464bb269cb910d6a63511e6fda85e:650551673</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-04 12:38:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>0dfb6f1836d84711b28420c9f2f15c89</sys_id>
+        <sys_metadata>a6bb4051c3003550e5724ad9d001311b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ritm_requested_for_avatar_element</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_a6bb4051c3003550e5724ad9d001311b</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_a6bb4051c3003550e5724ad9d001311b">18a464bb979cb910efd27bc71153af5e</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 12:38:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

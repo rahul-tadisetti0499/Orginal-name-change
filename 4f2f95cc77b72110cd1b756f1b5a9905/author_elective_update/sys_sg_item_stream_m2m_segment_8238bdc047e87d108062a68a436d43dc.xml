@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="DELETE">
+        <item_stream display_value="Spend Authorization list stream">972ed025c327a510e5724ad9d0013170</item_stream>
+        <segment display_value="My To-dos">0fc4c123737f23002204e2596bf6a7a8</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-04 13:33:26</sys_created_on>
+        <sys_id>8238bdc047e87d108062a68a436d43dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_8238bdc047e87d108062a68a436d43dc</sys_update_name>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 13:33:26</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_item_stream_m2m_segment_8238bdc047e87d108062a68a436d43dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment"><sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE"><item_stream display_value="Spend Authorization list stream">972ed025c327a510e5724ad9d0013170</item_stream><segment display_value="My To-dos">0fc4c123737f23002204e2596bf6a7a8</segment><sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name><sys_created_by>bcone</sys_created_by><sys_created_on>2023-08-04 13:33:26</sys_created_on><sys_id>8238bdc047e87d108062a68a436d43dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package><sys_policy/><sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope><sys_update_name>sys_sg_item_stream_m2m_segment_8238bdc047e87d108062a68a436d43dc</sys_update_name><sys_updated_by>bcone</sys_updated_by><sys_updated_on>2023-08-04 13:33:26</sys_updated_on></sys_sg_item_stream_m2m_segment></record_update>]]></payload>
+        <payload_hash>429676044</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>08fc2cf397dcb910efd27bc71153af31</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-04 13:33:26</sys_created_on>
+        <sys_id>8e48bdc047e87d108062a68a436d436e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189c0c0c76f0000001</sys_recorded_at>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 13:33:26</sys_updated_on>
+        <type>Stream M2M segment</type>
+        <update_guid>c248bdc057e87d106614b5231d83426e</update_guid>
+        <update_guid_history>c248bdc057e87d106614b5231d83426e:429676044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-05 04:11:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_m2m_segment">sys_sg_item_stream_m2m_segment</sys_db_object>
+        <sys_id>9759618b90384aad9f1d71761fb5c749</sys_id>
+        <sys_metadata>8238bdc047e87d108062a68a436d43dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_8238bdc047e87d108062a68a436d43dc</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_m2m_segment_8238bdc047e87d108062a68a436d43dc">8e48bdc047e87d108062a68a436d436e</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-05 04:11:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

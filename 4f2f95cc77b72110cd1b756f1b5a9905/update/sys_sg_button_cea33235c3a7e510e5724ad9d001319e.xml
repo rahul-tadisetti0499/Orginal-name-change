@@ -12,7 +12,7 @@
         <confirm_label/>
         <confirmation_message/>
         <context>record</context>
-        <description>Spend authorization Reject Function</description>
+        <description>Spend authorization approval reject function</description>
         <destination_alp/>
         <destination_screen/>
         <destination_type>screen</destination_type>
@@ -29,7 +29,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Spend authorization Reject Function</name>
+        <name>Spend Authorization Reject Function</name>
         <offline>false</offline>
         <offline_condition/>
         <offline_condition_script/>
@@ -58,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-21 11:19:26</sys_created_on>
         <sys_id>cea33235c3a7e510e5724ad9d001319e</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Spend authorization Reject Function</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Spend Authorization Reject Function</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_button_cea33235c3a7e510e5724ad9d001319e</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-28 06:51:23</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-05 15:01:41</sys_updated_on>
         <table>sn_hr_workday_spend_authorization_request_todos_item</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

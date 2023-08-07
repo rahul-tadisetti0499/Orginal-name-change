@@ -5,20 +5,20 @@
         <datasource_table_condition/>
         <embedded_screen display_value="Job requisition approval">e923a025c323e510fc27e92bb00131a4</embedded_screen>
         <item_view/>
-        <name>Job requisition approval item config</name>
+        <name>Job Requisition Approval Item Config</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-20 05:40:07</sys_created_on>
         <sys_id>796c1cadc3efa510fc27e92bb00131c4</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Job requisition approval item config</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Job Requisition Approval Item Config</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_master_item_796c1cadc3efa510fc27e92bb00131c4</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-06 11:53:07</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 13:07:00</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Job requisition approval card">e56c1cadc3efa510fc27e92bb00131c1</view_config>
+        <view_config display_value="Job Requisition Approval Card">e56c1cadc3efa510fc27e92bb00131c1</view_config>
     </sys_sg_master_item>
 </record_update>

@@ -12,9 +12,9 @@
         <confirm_label>Confirm</confirm_label>
         <confirmation_message>Do you want to approve this request ?</confirmation_message>
         <context>record</context>
-        <description>Request approval</description>
+        <description>Compensation change approval approve function</description>
         <destination_alp/>
-        <destination_screen display_value="Compensation change list screen">57c6fd51c3dba510fc27e92bb0013143</destination_screen>
+        <destination_screen display_value="Compensation Change Approval ">57c6fd51c3dba510fc27e92bb0013143</destination_screen>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
         <failure_message/>
@@ -29,7 +29,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Compensation change Workday Approve Function</name>
+        <name>Compensation Change Approve Function</name>
         <offline>false</offline>
         <offline_condition/>
         <offline_condition_script/>
@@ -58,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-08 09:04:18</sys_created_on>
         <sys_id>f7081721c35fe510fc27e92bb001315b</sys_id>
-        <sys_mod_count>17</sys_mod_count>
-        <sys_name>Compensation change Workday Approve Function</sys_name>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>Compensation Change Approve Function</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_button_f7081721c35fe510fc27e92bb001315b</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-28 06:51:39</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 12:11:09</sys_updated_on>
         <table>sn_hr_workday_compensation_change_request_todos</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

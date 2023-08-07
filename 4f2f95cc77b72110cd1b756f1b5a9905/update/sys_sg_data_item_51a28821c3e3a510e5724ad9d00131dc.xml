@@ -4,7 +4,7 @@
         <description>Time off correction record data item</description>
         <group_by/>
         <instance_relative_url_qc/>
-        <name>Time off correction record data item</name>
+        <name>Time-off Correction Record Data Item</name>
         <offline_query_condition/>
         <offline_query_condition_script/>
         <query_condition table="sn_me_workday_time_off_correction_approval_db_view">td_workday_id={{wd_id}}^td_assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^td_todo_state=2^td_active=true^EQ<item endquery="false" field="td_workday_id" goto="false" newquery="false" operator="=" or="false" value="{{wd_id}}"/>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-20 03:49:21</sys_created_on>
         <sys_id>51a28821c3e3a510e5724ad9d00131dc</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Time off correction record data item</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Time-off Correction Record Data Item</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_data_item_51a28821c3e3a510e5724ad9d00131dc</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-25 05:51:54</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 12:52:54</sys_updated_on>
         <table>sn_me_workday_time_off_correction_approval_db_view</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=51a28821c3e3a510e5724ad9d00131dc"/>

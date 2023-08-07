@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_field">
+    <sys_sg_view_config_field action="DELETE">
+        <name>td_due_date</name>
+        <sys_class_name>sys_sg_view_config_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 12:03:16</sys_created_on>
+        <sys_id>ea5d19afc3c87d50fc27e92bb0013126</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>td_due_date</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_view_config_field_ea5d19afc3c87d50fc27e92bb0013126</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 12:03:16</sys_updated_on>
+        <view_config display_value="Time off correction approval record card">da219db1c3efe510fc27e92bb001316e</view_config>
+    </sys_sg_view_config_field>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_view_config_field_ea5d19afc3c87d50fc27e92bb0013126</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_field">
+    <sys_sg_view_config_field action="INSERT_OR_UPDATE">
+        <name>td_due_date</name>
+        <sys_class_name>sys_sg_view_config_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 12:03:16</sys_created_on>
+        <sys_id>ea5d19afc3c87d50fc27e92bb0013126</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>td_due_date</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_view_config_field_ea5d19afc3c87d50fc27e92bb0013126</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 12:03:16</sys_updated_on>
+        <view_config display_value="Time off correction approval record card">da219db1c3efe510fc27e92bb001316e</view_config>
+    </sys_sg_view_config_field>
+</record_update>]]></payload>
+        <payload_hash>140826104</payload_hash>
+        <record_name>td_due_date</record_name>
+        <reverted_from/>
+        <source>9c54ac3b979cb910efd27bc71153afb1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-08-03 12:49:55</sys_created_on>
+        <sys_id>f6b4acbb979cb910efd27bc71153af1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bb7294360000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-03 12:49:55</sys_updated_on>
+        <type>Card field</type>
+        <update_guid>b6b4acbb999cb91025c6fb6308ee681c</update_guid>
+        <update_guid_history>b6b4acbb999cb91025c6fb6308ee681c:140826104</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sajal.gupta@snc</sys_created_by>
+        <sys_created_on>2023-08-04 07:15:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_field">sys_sg_view_config_field</sys_db_object>
+        <sys_id>01369138c3c746f880413c39d5477a21</sys_id>
+        <sys_metadata>ea5d19afc3c87d50fc27e92bb0013126</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>td_due_date</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_field_ea5d19afc3c87d50fc27e92bb0013126</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_field_ea5d19afc3c87d50fc27e92bb0013126">f6b4acbb979cb910efd27bc71153af1c</sys_update_version>
+        <sys_updated_by>sajal.gupta@snc</sys_updated_by>
+        <sys_updated_on>2023-08-04 07:15:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

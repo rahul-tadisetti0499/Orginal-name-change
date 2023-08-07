@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Workday Comment data Item">0052e8cbc3dfa110fc27e92bb001311b</data_item>
+        <description>Workday Approval Comment Record Screen</description>
+        <dynamic_prefetch_count>10</dynamic_prefetch_count>
+        <empty_state/>
+        <fetch_type>dynamic_prefetch</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <item_view/>
+        <name>Comment </name>
+        <override_context_with_data_item>true</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-12 11:45:12</sys_created_on>
+        <sys_id>afb1a0cbc3dfa110fc27e92bb00131c8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Comment </sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_form_screen_afb1a0cbc3dfa110fc27e92bb00131c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 11:03:55</sys_updated_on>
+        <table/>
+        <use_view_config>true</use_view_config>
+        <view_config/>
+    </sys_sg_form_screen>
+    <sys_translated_text action="DELETE" query="documentkey=afb1a0cbc3dfa110fc27e92bb00131c8"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_form_screen_afb1a0cbc3dfa110fc27e92bb00131c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Workday Comment data Item">0052e8cbc3dfa110fc27e92bb001311b</data_item>
+        <description>Workday Approval Comment Record Screen</description>
+        <dynamic_prefetch_count>10</dynamic_prefetch_count>
+        <empty_state/>
+        <fetch_type>dynamic_prefetch</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <item_view/>
+        <name>Comment </name>
+        <override_context_with_data_item>true</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-12 11:45:12</sys_created_on>
+        <sys_id>afb1a0cbc3dfa110fc27e92bb00131c8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Comment </sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_form_screen_afb1a0cbc3dfa110fc27e92bb00131c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 11:03:55</sys_updated_on>
+        <table/>
+        <use_view_config>true</use_view_config>
+        <view_config/>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=afb1a0cbc3dfa110fc27e92bb00131c8"/>
+</record_update>]]></payload>
+        <payload_hash>485739994</payload_hash>
+        <record_name>Comment </record_name>
+        <reverted_from/>
+        <source>9c54ac3b979cb910efd27bc71153afb1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-08-03 12:48:33</sys_created_on>
+        <sys_id>f664247b979cb910efd27bc71153afd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bb7154300000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-03 12:48:33</sys_updated_on>
+        <type>Record screen</type>
+        <update_guid>b664247bd59cb910f2a39a6f06c8d9d7</update_guid>
+        <update_guid_history>b664247bd59cb910f2a39a6f06c8d9d7:485739994</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-04 12:31:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>16a6c897701143799b26145ff7381be1</sys_id>
+        <sys_metadata>afb1a0cbc3dfa110fc27e92bb00131c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Comment </sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_afb1a0cbc3dfa110fc27e92bb00131c8</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_afb1a0cbc3dfa110fc27e92bb00131c8">f664247b979cb910efd27bc71153afd7</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 12:31:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

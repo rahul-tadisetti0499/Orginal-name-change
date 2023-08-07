@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule">
+    <sys_sg_ui_rule action="DELETE">
+        <active>true</active>
+        <condition/>
+        <name>Compensation Change List Data Formatter</name>
+        <order>10</order>
+        <parent_id>cb41d695c31fa510fc27e92bb0013135</parent_id>
+        <parent_table>sys_sg_view_config</parent_table>
+        <reverse_if_false>false</reverse_if_false>
+        <sys_class_name>sys_sg_ui_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 04:44:42</sys_created_on>
+        <sys_id>14b2e6cec3232910e5724ad9d0013178</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Compensation Change List Data Formatter</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_14b2e6cec3232910e5724ad9d0013178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 08:14:00</sys_updated_on>
+        <trigger>fd680bd85b431010da168d8fa881c7c8</trigger>
+    </sys_sg_ui_rule>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_ui_rule_14b2e6cec3232910e5724ad9d0013178</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule">
+    <sys_sg_ui_rule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>Compensation Change List Data Formatter</name>
+        <order>10</order>
+        <parent_id>cb41d695c31fa510fc27e92bb0013135</parent_id>
+        <parent_table>sys_sg_view_config</parent_table>
+        <reverse_if_false>false</reverse_if_false>
+        <sys_class_name>sys_sg_ui_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 04:44:42</sys_created_on>
+        <sys_id>14b2e6cec3232910e5724ad9d0013178</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Compensation Change List Data Formatter</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_14b2e6cec3232910e5724ad9d0013178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 08:14:00</sys_updated_on>
+        <trigger>fd680bd85b431010da168d8fa881c7c8</trigger>
+    </sys_sg_ui_rule>
+</record_update>]]></payload>
+        <payload_hash>798495781</payload_hash>
+        <record_name>Compensation Change List Data Formatter</record_name>
+        <reverted_from/>
+        <source>9c54ac3b979cb910efd27bc71153afb1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-08-03 12:49:04</sys_created_on>
+        <sys_id>96846c7b979cb910efd27bc71153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bb71cb830000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-03 12:49:04</sys_updated_on>
+        <type>Mobile UI Rule</type>
+        <update_guid>56846c7b7e9cb910912121fabf2eafb6</update_guid>
+        <update_guid_history>56846c7b7e9cb910912121fabf2eafb6:798495781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-07 05:56:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_rule">sys_sg_ui_rule</sys_db_object>
+        <sys_id>012685ae6d2c45f880b5797f00c99384</sys_id>
+        <sys_metadata>14b2e6cec3232910e5724ad9d0013178</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compensation Change List Data Formatter</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_rule_14b2e6cec3232910e5724ad9d0013178</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_rule_14b2e6cec3232910e5724ad9d0013178">96846c7b979cb910efd27bc71153afb6</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-07 05:56:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

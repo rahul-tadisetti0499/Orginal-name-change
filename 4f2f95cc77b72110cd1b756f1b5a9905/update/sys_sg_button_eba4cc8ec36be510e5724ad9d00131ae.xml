@@ -29,7 +29,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Timesheet approval reject function</name>
+        <name>Timesheet Approval Reject Function</name>
         <offline>false</offline>
         <offline_condition/>
         <offline_condition_script/>
@@ -58,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-21 17:13:26</sys_created_on>
         <sys_id>eba4cc8ec36be510e5724ad9d00131ae</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Timesheet approval reject function</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Timesheet Approval Reject Function</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_button_eba4cc8ec36be510e5724ad9d00131ae</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-28 06:51:04</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 13:18:52</sys_updated_on>
         <table>sn_hr_workday_todo</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

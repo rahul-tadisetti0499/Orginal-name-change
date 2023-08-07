@@ -31,7 +31,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Time off comment function</name>
+        <name>Time-off Comment Function</name>
         <offline>false</offline>
         <offline_condition/>
         <offline_condition_script/>
@@ -60,14 +60,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-26 04:53:56</sys_created_on>
         <sys_id>89694f17c3afa110e5724ad9d00131c6</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_name>Time off comment function</sys_name>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Time-off Comment Function</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_button_89694f17c3afa110e5724ad9d00131c6</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-21 12:10:38</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 12:19:58</sys_updated_on>
         <table>sn_hr_workday_time_off_request_todos_item</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

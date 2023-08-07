@@ -29,7 +29,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Timesheet Approval Complete in Workday</name>
+        <name>Timesheet Approval Complete in Workday Function</name>
         <offline>false</offline>
         <offline_condition/>
         <offline_condition_script/>
@@ -58,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-24 06:35:01</sys_created_on>
         <sys_id>290fe310c3547d50e5724ad9d00131f2</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Timesheet Approval Complete in Workday</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Timesheet Approval Complete in Workday Function</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_button_290fe310c3547d50e5724ad9d00131f2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-28 06:51:04</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 13:19:35</sys_updated_on>
         <table>sn_hr_workday_todo</table>
         <take_value_from_field>true</take_value_from_field>
         <type>url</type>

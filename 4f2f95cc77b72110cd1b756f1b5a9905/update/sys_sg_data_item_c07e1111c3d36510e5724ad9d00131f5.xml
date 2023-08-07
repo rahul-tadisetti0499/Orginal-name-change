@@ -4,7 +4,7 @@
         <description>Time off approval list screen data item</description>
         <group_by/>
         <instance_relative_url_qc/>
-        <name>Time off approval data item</name>
+        <name>Time-off Approval Data Item</name>
         <offline_query_condition/>
         <offline_query_condition_script/>
         <query_condition table="sn_hr_workday_time_off_request_todos">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^todo_state=2^active=true^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-07 05:34:27</sys_created_on>
         <sys_id>c07e1111c3d36510e5724ad9d00131f5</sys_id>
-        <sys_mod_count>8</sys_mod_count>
-        <sys_name>Time off approval data item</sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Time-off Approval Data Item</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_data_item_c07e1111c3d36510e5724ad9d00131f5</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-31 08:26:43</sys_updated_on>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-04 12:22:08</sys_updated_on>
         <table>sn_hr_workday_time_off_request_todos</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=c07e1111c3d36510e5724ad9d00131f5"/>
