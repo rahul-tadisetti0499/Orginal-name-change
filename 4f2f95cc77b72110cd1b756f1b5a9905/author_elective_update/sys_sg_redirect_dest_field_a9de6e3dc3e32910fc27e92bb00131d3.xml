@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="DELETE">
+        <button display_value="Time off correction comment function">fe2e263dc3e32910fc27e92bb00131ee</button>
+        <button_table>sn_me_workday_time_off_correction_approval_db_view</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="Comment UI parameter">48936c0fc3dfa110fc27e92bb001312d</destination_ui_parameter>
+        <source_field>wc_workday_id</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-21 10:59:19</sys_created_on>
+        <sys_id>a9de6e3dc3e32910fc27e92bb00131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48936c0fc3dfa110fc27e92bb001312d</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_a9de6e3dc3e32910fc27e92bb00131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 10:59:19</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_redirect_dest_field_a9de6e3dc3e32910fc27e92bb00131d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Time off correction comment function">fe2e263dc3e32910fc27e92bb00131ee</button>
+        <button_table>sn_me_workday_time_off_correction_approval_db_view</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="Comment UI parameter">48936c0fc3dfa110fc27e92bb001312d</destination_ui_parameter>
+        <source_field>wc_workday_id</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-21 10:59:19</sys_created_on>
+        <sys_id>a9de6e3dc3e32910fc27e92bb00131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48936c0fc3dfa110fc27e92bb001312d</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_a9de6e3dc3e32910fc27e92bb00131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 10:59:19</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>]]></payload>
+        <payload_hash>-933472995</payload_hash>
+        <record_name>48936c0fc3dfa110fc27e92bb001312d</record_name>
+        <reverted_from/>
+        <source>9c54ac3b979cb910efd27bc71153afb1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-08-03 12:48:48</sys_created_on>
+        <sys_id>1e74687b979cb910efd27bc71153af75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bb718e290000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-03 12:48:48</sys_updated_on>
+        <type>Redirection destination fields</type>
+        <update_guid>1674687b419cb91037313eb66e852369</update_guid>
+        <update_guid_history>1674687b419cb91037313eb66e852369:-933472995</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-08 06:24:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_redirect_dest_field">sys_sg_redirect_dest_field</sys_db_object>
+        <sys_id>45b02e73893541baa1e4b1c8bde01ca1</sys_id>
+        <sys_metadata>a9de6e3dc3e32910fc27e92bb00131d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48936c0fc3dfa110fc27e92bb001312d</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_redirect_dest_field_a9de6e3dc3e32910fc27e92bb00131d3</sys_update_name>
+        <sys_update_version display_value="sys_sg_redirect_dest_field_a9de6e3dc3e32910fc27e92bb00131d3">1e74687b979cb910efd27bc71153af75</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-08 06:24:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

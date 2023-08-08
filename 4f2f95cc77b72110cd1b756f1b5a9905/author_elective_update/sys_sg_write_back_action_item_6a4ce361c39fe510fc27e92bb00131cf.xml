@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description>Job Change Workday Approve action item</description>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+	// Type appropriate comment here, and begin script below
+
+})(input);]]></execution_script>
+        <name>Job Change Workday Approve action item</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 10:32:41</sys_created_on>
+        <sys_id>6a4ce361c39fe510fc27e92bb00131cf</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Job Change Workday Approve action item</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_6a4ce361c39fe510fc27e92bb00131cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 16:43:43</sys_updated_on>
+        <table>sn_hr_workday_job_change_request_todos</table>
+        <template/>
+        <type>script</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=6a4ce361c39fe510fc27e92bb00131cf"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_write_back_action_item_6a4ce361c39fe510fc27e92bb00131cf</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_sg_write_back_action_item"&gt;
+    &lt;sys_sg_write_back_action_item action="INSERT_OR_UPDATE"&gt;
+        &lt;description&gt;Job Change Workday Approve action item&lt;/description&gt;
+        &lt;execution_script&gt;&lt;![CDATA[(function WriteBackAction(input) {
+	// Type appropriate comment here, and begin script below
+
+})(input);]]&gt;&lt;/execution_script&gt;
+        &lt;name&gt;Job Change Workday Approve action item&lt;/name&gt;
+        &lt;parameter_screen/&gt;
+        &lt;query_condition/&gt;
+        &lt;sys_class_name&gt;sys_sg_write_back_action_item&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2023-06-08 10:32:41&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;6a4ce361c39fe510fc27e92bb00131cf&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Job Change Workday Approve action item&lt;/sys_name&gt;
+        &lt;sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday"&gt;4f2f95cc77b72110cd1b756f1b5a9905&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Now Mobile Integration with Workday"&gt;4f2f95cc77b72110cd1b756f1b5a9905&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_sg_write_back_action_item_6a4ce361c39fe510fc27e92bb00131cf&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2023-06-08 16:43:43&lt;/sys_updated_on&gt;
+        &lt;table&gt;sn_hr_workday_job_change_request_todos&lt;/table&gt;
+        &lt;template/&gt;
+        &lt;type&gt;script&lt;/type&gt;
+        &lt;use_current_record_as_condition&gt;true&lt;/use_current_record_as_condition&gt;
+        &lt;use_fields_for_ref_lookup&gt;false&lt;/use_fields_for_ref_lookup&gt;
+    &lt;/sys_sg_write_back_action_item&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=6a4ce361c39fe510fc27e92bb00131cf"/&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>2074107019</payload_hash>
+        <record_name>Job Change Workday Approve action item</record_name>
+        <reverted_from/>
+        <source>9c54ac3b979cb910efd27bc71153afb1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-08-03 12:50:08</sys_created_on>
+        <sys_id>b1c460fb979cb910efd27bc71153af33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bb72c3fa0000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-03 12:50:08</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>71c460fbd19cb9108796b3e0a7488f33</update_guid>
+        <update_guid_history>71c460fbd19cb9108796b3e0a7488f33:2074107019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-08 05:46:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>6f700263b94841f0ac49307cb831fbe4</sys_id>
+        <sys_metadata>6a4ce361c39fe510fc27e92bb00131cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Change Workday Approve action item</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_6a4ce361c39fe510fc27e92bb00131cf</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_6a4ce361c39fe510fc27e92bb00131cf">b1c460fb979cb910efd27bc71153af33</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-08 05:46:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

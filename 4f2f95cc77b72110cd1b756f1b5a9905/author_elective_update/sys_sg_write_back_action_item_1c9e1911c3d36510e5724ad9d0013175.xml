@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Time Off Request Todos Item)</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 05:35:01</sys_created_on>
+        <sys_id>1c9e1911c3d36510e5724ad9d0013175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Time Off Request Todos Item)</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_1c9e1911c3d36510e5724ad9d0013175</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-07 05:35:01</sys_updated_on>
+        <table>sn_hr_workday_time_off_request_todos_item</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=1c9e1911c3d36510e5724ad9d0013175"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_write_back_action_item_1c9e1911c3d36510e5724ad9d0013175</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Time Off Request Todos Item)</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 05:35:01</sys_created_on>
+        <sys_id>1c9e1911c3d36510e5724ad9d0013175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Time Off Request Todos Item)</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_1c9e1911c3d36510e5724ad9d0013175</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-07 05:35:01</sys_updated_on>
+        <table>sn_hr_workday_time_off_request_todos_item</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=1c9e1911c3d36510e5724ad9d0013175"/>
+</record_update>]]></payload>
+        <payload_hash>-625376117</payload_hash>
+        <record_name>Delete (Time Off Request Todos Item)</record_name>
+        <reverted_from/>
+        <source>9c54ac3b979cb910efd27bc71153afb1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-08-03 12:50:07</sys_created_on>
+        <sys_id>f5c460fb979cb910efd27bc71153af28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bb72c3460000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-03 12:50:07</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>a5c460fb139cb910a86dc261f66ee628</update_guid>
+        <update_guid_history>a5c460fb139cb910a86dc261f66ee628:-625376117</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-08 05:48:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>00b25cd08fc54ffd819989668be75369</sys_id>
+        <sys_metadata>1c9e1911c3d36510e5724ad9d0013175</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Time Off Request Todos Item)</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_1c9e1911c3d36510e5724ad9d0013175</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_1c9e1911c3d36510e5724ad9d0013175">f5c460fb979cb910efd27bc71153af28</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-08 05:48:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

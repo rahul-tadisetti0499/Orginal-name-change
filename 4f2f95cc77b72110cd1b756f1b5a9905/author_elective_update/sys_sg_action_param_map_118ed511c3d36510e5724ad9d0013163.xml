@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Edit Button (Time Off Request Todos)">3c8ed511c3d36510e5724ad9d0013148</button>
+        <item_parameter display_value="Time Off Request Todos due_date">a48ed511c3d36510e5724ad9d0013142</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 05:34:48</sys_created_on>
+        <sys_id>118ed511c3d36510e5724ad9d0013163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a48ed511c3d36510e5724ad9d0013142</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_118ed511c3d36510e5724ad9d0013163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-07 05:34:48</sys_updated_on>
+        <ui_parameter display_value="Due date">0d8ed511c3d36510e5724ad9d001315a</ui_parameter>
+    </sys_sg_action_param_map>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_action_param_map_118ed511c3d36510e5724ad9d0013163</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Time Off Request Todos)">3c8ed511c3d36510e5724ad9d0013148</button>
+        <item_parameter display_value="Time Off Request Todos due_date">a48ed511c3d36510e5724ad9d0013142</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 05:34:48</sys_created_on>
+        <sys_id>118ed511c3d36510e5724ad9d0013163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a48ed511c3d36510e5724ad9d0013142</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_118ed511c3d36510e5724ad9d0013163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-07 05:34:48</sys_updated_on>
+        <ui_parameter display_value="Due date">0d8ed511c3d36510e5724ad9d001315a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>]]></payload>
+        <payload_hash>-815298629</payload_hash>
+        <record_name>a48ed511c3d36510e5724ad9d0013142</record_name>
+        <reverted_from/>
+        <source>9c54ac3b979cb910efd27bc71153afb1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-08-03 12:48:17</sys_created_on>
+        <sys_id>b654207b979cb910efd27bc71153afe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bb7116090000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-03 12:48:17</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>7654207b7e9cb91040f390cb2ef1b6e7</update_guid>
+        <update_guid_history>7654207b7e9cb91040f390cb2ef1b6e7:-815298629</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-08 05:48:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>135e11da6d9c455981bd99762ec639f9</sys_id>
+        <sys_metadata>118ed511c3d36510e5724ad9d0013163</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a48ed511c3d36510e5724ad9d0013142</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_118ed511c3d36510e5724ad9d0013163</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_118ed511c3d36510e5724ad9d0013163">b654207b979cb910efd27bc71153afe7</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-08 05:48:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
