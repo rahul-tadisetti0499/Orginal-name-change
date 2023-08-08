@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Leave of Absence Reject Function">2ff26473c3afe110e5724ad9d0013128</button>
+        <button_parent_table>sn_me_workday_leave_of_absence_approval_db_view</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>auto</input_source>
+        <input_style>inline</input_style>
+        <input_type>source_field</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Sys Id</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>td_sys_id</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-27 05:55:14</sys_created_on>
+        <sys_id>63f26473c3afe110e5724ad9d001312e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Sys Id</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_63f26473c3afe110e5724ad9d001312e</sys_update_name>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-08 05:54:46</sys_updated_on>
+        <table_name/>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=63f26473c3afe110e5724ad9d001312e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</application>
+        <file_path/>
+        <instance_id>d281f6a1dbafad94caf99027c59619b1</instance_id>
+        <instance_name>finerputah4</instance_name>
+        <name>sys_sg_ui_parameter_63f26473c3afe110e5724ad9d001312e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Leave of Absence Reject Function">2ff26473c3afe110e5724ad9d0013128</button><button_parent_table>sn_me_workday_leave_of_absence_approval_db_view</button_parent_table><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>auto</input_source><input_style>inline</input_style><input_type>source_field</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Sys Id</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field>td_sys_id</source_field><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-27 05:55:14</sys_created_on><sys_id>63f26473c3afe110e5724ad9d001312e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Sys Id</sys_name><sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package><sys_policy/><sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope><sys_update_name>sys_sg_ui_parameter_63f26473c3afe110e5724ad9d001312e</sys_update_name><sys_updated_by>bcone</sys_updated_by><sys_updated_on>2023-08-08 05:54:46</sys_updated_on><table_name/><virtual_field_value>false</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=63f26473c3afe110e5724ad9d001312e"/></record_update>]]></payload>
+        <payload_hash>-2082265926</payload_hash>
+        <record_name>Sys Id</record_name>
+        <reverted_from/>
+        <source>86e6689d4724f1108062a68a436d4340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-08 05:54:47</sys_created_on>
+        <sys_id>eaa5789d4764f1108062a68a436d4354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d3b64c760000001</sys_recorded_at>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-08 05:54:47</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>a2a5789d7d64f110d5b232d73851f354</update_guid>
+        <update_guid_history>a2a5789d7d64f110d5b232d73851f354:-2082265926,bc842c7bb59cb910ecddcb09bb102042:-534960614</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-08 05:59:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>1e3172e84d7b4de8b36c37ff5196a361</sys_id>
+        <sys_metadata>63f26473c3afe110e5724ad9d001312e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys Id</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_scope_delete display_value="">ae143ea4d3b145129a43e8df015ba021</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_63f26473c3afe110e5724ad9d001312e</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_63f26473c3afe110e5724ad9d001312e">eaa5789d4764f1108062a68a436d4354</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-08 05:59:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
