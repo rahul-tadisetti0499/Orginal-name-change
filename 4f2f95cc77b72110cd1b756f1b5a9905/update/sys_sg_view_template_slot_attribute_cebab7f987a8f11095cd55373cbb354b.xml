@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute">
+    <sys_sg_view_template_slot_attribute action="INSERT_OR_UPDATE">
+        <description>text_05_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-10 09:32:42</sys_created_on>
+        <sys_id>cebab7f987a8f11095cd55373cbb354b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_attribute_cebab7f987a8f11095cd55373cbb354b</sys_update_name>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-10 09:32:42</sys_updated_on>
+        <translated_value/>
+        <value/>
+        <view_template_slot display_value="text_05">8ebab7f987a8f11095cd55373cbb3549</view_template_slot>
+    </sys_sg_view_template_slot_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=cebab7f987a8f11095cd55373cbb354b"/>
+</record_update>
