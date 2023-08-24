@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
     <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
         <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
-        <order/>
+        <order>1</order>
         <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-28 13:15:05</sys_created_on>
         <sys_id>b1e03571c3d07590fc27e92bb0013138</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_ui_rule_action_b1e03571c3d07590fc27e92bb0013138</sys_update_name>
         <sys_updated_by>bcone</sys_updated_by>
-        <sys_updated_on>2023-08-08 07:16:39</sys_updated_on>
+        <sys_updated_on>2023-08-24 09:54:40</sys_updated_on>
         <target>icon_01</target>
         <ui_rule display_value="Compensation Change Due Date Color Overdue">8d107eb2c308f950fc27e92bb001316a</ui_rule>
-        <value>{"TextDecorator":{"Type":"Font","FontName":"now-mobile-icons-cards","Value":"e904","Size":24,"Name":"icon-Warning","FontColor":"#891522","FontColorVariable":"--now-color_alert--critical-4"}}</value>
+        <value>{"TextDecorator":{"Type":"Font","FontName":"now-mobile-icons-cards","Value":"e904","Size":20,"Name":"icon-Warning","FontColor":"#891522","FontColorVariable":"--now-color_alert--critical-4"}}</value>
     </sys_sg_ui_rule_action>
 </record_update>

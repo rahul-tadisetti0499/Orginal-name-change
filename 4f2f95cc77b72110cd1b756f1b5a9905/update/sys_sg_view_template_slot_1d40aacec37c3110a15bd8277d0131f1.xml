@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
     <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
-        <name>ritm_approval_text</name>
+        <name>icon_01</name>
         <sys_class_name>sys_sg_view_template_slot</sys_class_name>
         <sys_created_by>bcone</sys_created_by>
-        <sys_created_on>2023-08-07 05:33:06</sys_created_on>
-        <sys_id>1b172fbc4720b1108062a68a436d437a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>ritm_approval_text</sys_name>
+        <sys_created_on>2023-08-23 07:51:42</sys_created_on>
+        <sys_id>1d40aacec37c3110a15bd8277d0131f1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>icon_01</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
-        <sys_update_name>sys_sg_view_template_slot_1b172fbc4720b1108062a68a436d437a</sys_update_name>
+        <sys_update_name>sys_sg_view_template_slot_1d40aacec37c3110a15bd8277d0131f1</sys_update_name>
         <sys_updated_by>bcone</sys_updated_by>
-        <sys_updated_on>2023-08-07 05:33:06</sys_updated_on>
+        <sys_updated_on>2023-08-23 11:47:47</sys_updated_on>
         <type>text</type>
         <view_template display_value="Workday Approval Card Template">dde9c9ddc3803550e5724ad9d0013125</view_template>
     </sys_sg_view_template_slot>
