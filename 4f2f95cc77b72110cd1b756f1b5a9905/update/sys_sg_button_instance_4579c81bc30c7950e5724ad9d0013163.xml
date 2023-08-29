@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <button display_value="Timesheet Approval Complete in Workday">290fe310c3547d50e5724ad9d00131f2</button>
         <color_theme>primary</color_theme>
         <description>Timesheet approval complete in workday function instance</description>
@@ -17,14 +17,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-20 11:21:14</sys_created_on>
         <sys_id>4579c81bc30c7950e5724ad9d0013163</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Timesheet Approval Complete in Workday</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_button_instance_4579c81bc30c7950e5724ad9d0013163</sys_update_name>
         <sys_updated_by>bcone</sys_updated_by>
-        <sys_updated_on>2023-08-11 08:41:00</sys_updated_on>
+        <sys_updated_on>2023-08-29 13:27:59</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=4579c81bc30c7950e5724ad9d0013163"/>

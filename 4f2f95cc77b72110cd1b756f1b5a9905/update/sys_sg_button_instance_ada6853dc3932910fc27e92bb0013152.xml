@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <button display_value="Job change approval  Approve Request">436aabedc35fe510fc27e92bb00131b5</button>
         <color_theme>positive</color_theme>
         <description>Job change approval approve function instance</description>
@@ -17,14 +17,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-08 17:07:28</sys_created_on>
         <sys_id>ada6853dc3932910fc27e92bb0013152</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Job Change Approve</sys_name>
         <sys_package display_value="Now Mobile Integration with Workday" source="sn_me_workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Mobile Integration with Workday">4f2f95cc77b72110cd1b756f1b5a9905</sys_scope>
         <sys_update_name>sys_sg_button_instance_ada6853dc3932910fc27e92bb0013152</sys_update_name>
         <sys_updated_by>bcone</sys_updated_by>
-        <sys_updated_on>2023-08-11 08:38:19</sys_updated_on>
+        <sys_updated_on>2023-08-29 13:25:24</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=ada6853dc3932910fc27e92bb0013152"/>
